@@ -1,0 +1,15 @@
+fastapi 
+uvicorn 
+pymongo 
+python-dotenv 
+passlib[bcrypt] 
+python-jose 
+python-multipart
+pydantic
+pydantic[email]
+jwt
+ccxt
+pandas
+ta
+bcrypt<=4.0.1
+redis
