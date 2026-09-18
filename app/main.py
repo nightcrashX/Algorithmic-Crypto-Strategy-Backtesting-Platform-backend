@@ -18,7 +18,7 @@ origins = [
     "http://localhost:8000",  # Default Create React App port
     "http://127.0.0.1:5173",
     "http://127.0.0.1:8000",
-    "https://algorithmic-crypto-strategy-backtesting.onrender.com",
+    "https://algorithmic-crypto-strategy-backtesting-ylnh.onrender.com",
     "ws://127.0.0.1:8000",
     "wsS://127.0.0.1:8000"
 ]
