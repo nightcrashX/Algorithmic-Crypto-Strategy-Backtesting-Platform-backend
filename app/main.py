@@ -19,7 +19,8 @@ origins = [
     "http://127.0.0.1:5173",
     "http://127.0.0.1:8000",
     "https://algorithmic-crypto-strategy-backtesting.onrender.com",
-    "ws://127.0.0.1:8000"
+    "ws://127.0.0.1:8000",
+    "wsS://127.0.0.1:8000"
 ]
 app.add_middleware(
     CORSMiddleware,
